@@ -1,10 +1,5 @@
 package me.moovin.service;
 
-/**
- * @author Esteban
- * @created 24/09/2020 - 05:36 p. m.
- */
-
 import com.vividsolutions.jts.geom.Coordinate;
 import com.vividsolutions.jts.geom.GeometryFactory;
 import com.vividsolutions.jts.geom.LinearRing;
